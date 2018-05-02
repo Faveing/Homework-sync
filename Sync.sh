@@ -1,5 +1,5 @@
 cp -R ~/storage/shared/Documents/markor/Homework 
-~/Homework-sync/Homework-sync
+~/Homework-sync/Homework-sync/
 cd ~/Homework-sync/Homework-sync
 git init
 git add .
