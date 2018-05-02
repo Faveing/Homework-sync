@@ -8,7 +8,7 @@
 6. None
 7. None
 ***
-**Homework 4/31**
+**Homework 5/1**
 1.None
 2.~~LRA Questions 10, 11~~
 3.None
@@ -17,4 +17,12 @@
 6.None
 7.None
 ***
-
+**Homework 5/2**
+1. Read prelab
+2. CH.4 cont (78-88)
+3. None
+4. Workbook, schoology practice
+5. 
+6. 
+7. 
+***
