@@ -19,9 +19,18 @@
 ***
 **Homework 5/2**
 1. Read prelab
-2. CH.4 cont (78-88)
+2. ~~CH.4 cont (78-88)~~
 3. None
-4. Workbook, schoology practice
+4. ~~Workbook, schoology practice~~
+5. None
+6. None
+7. None
+***
+**Homework 5/3**
+1. None
+2. Questions 12-14
+3. None
+4. Workbook gp
 5. None
 6. None
 7. None
