@@ -35,3 +35,12 @@
 6. None
 7. None
 ***
+**Homework 5/4**
+1. None
+2. Read chapter 5, Answer 14
+3. None
+4. Vsa, crossword, gp
+5. None
+6. None
+7. Finish worksheet
+***
