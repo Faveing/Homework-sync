@@ -37,7 +37,7 @@
 ***
 **Homework 5/4**
 1. None
-2. Read chapter 5, Answer 14
+2. ~~Read chapter 5, Answer 14~~
 3. None
 4. Vsa, crossword, gp
 5. None
